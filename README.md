@@ -34,11 +34,11 @@ This dataset is intended for research and exploratory analysis in support of inv
 *   **Ethical standards:** Adhere to journalistic and academic ethics standards.
 
 ### Prohibited Uses
-*   ❌ **Finetuning language models.**
-*   ❌ Harassment, doxing, or targeted attacks on any individual or group.
-*   ❌ Attempts to deanonymize redacted information or circumvent existing redactions.
-*   ❌ Presenting unverified allegations as factual claims.
-*   ❌ Sensationalizing findings.
+*   **Finetuning language models.**
+*   Harassment, doxing, or targeted attacks on any individual or group.
+*   Attempts to deanonymize redacted information or circumvent existing redactions.
+*   Presenting unverified allegations as factual claims.
+*   Sensationalizing findings.
 
 > **Note:** All use must comply with applicable law, institutional policies, and the terms of the original House release. See the [Legal](#legal-and-copyright-status) and [Ethical](#usage-guidelines) sections before working with this corpus.
 
