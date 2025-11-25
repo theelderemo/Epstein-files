@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python/Environment
+__pycache__/
+*.pyc
+.venv/
+env/
+requirements.txt.swp
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporary Data Processing
+# (Assuming you don't want to upload partial zips or temp OCR artifacts)
+temp/
+*.tmp
+*.log
+raw_downloads/

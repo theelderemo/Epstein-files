@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset for research or investigative reporting, please cite it as follows."
+authors:
+  - name: "Dataset Maintainers"
+title: "U.S. House Oversight Epstein Estate Documents (Cleaned & OCR'd)"
+date-released: 2025-11-16
+url: "https://github.com/[YOUR-USERNAME]/[REPO-NAME]"
+abstract: "A standardized, OCR-processed collection of documents released by the U.S. House Oversight Committee regarding the Epstein Estate, formatted for open-source investigation and analysis."
+keywords:
+  - "government documents"
+  - "forensic analysis"
+  - "OCR"
+  - "investigative journalism"
