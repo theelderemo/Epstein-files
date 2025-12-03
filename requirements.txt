@@ -1,3 +1,0 @@
-gradio
-pandas
-google-cloud-storage
