@@ -135,6 +135,6 @@ with gr.Blocks(title="Epstein Docs Browser", theme=gr.themes.Soft()) as demo:
     # Click Event
     results_table.select(fn=get_doc_content, inputs=[current_data], outputs=doc_viewer)
 
-# REQUIRED FOR CLOUD RUN: server_name="0.0.0.0" and port=8080
 if __name__ == "__main__":
-    demo.launch(server_name="0.0.0.0", server_port=8080)
+    port = int(os.environ.get("PORT", 8080))
+    demo.launch(server_name="0.0.0.0", server_port=port)
