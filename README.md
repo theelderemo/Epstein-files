@@ -77,6 +77,7 @@ The corpus may contain:
     *   Does not assert ownership over underlying documents.
     *   Does not grant any license to reproduce, distribute, or create derivative works beyond what is permitted by law (e.g., fair use).
 *   **Liability:** Users are solely responsible for ensuring compliance with applicable copyright law, privacy law, institutional policies, and the terms of the original release.
+*   The repo owner (theelderemo, Christopher Dickinson) **claims no ownership** over the underlying documents and is **released from any and all liability** arising from the *use, misuse, interpretation, or dissemination of this dataset.* This includes, without limitation, any **direct, indirect, incidental, consequential, or derivative damages** related to research, reporting, model development, or any tools, analyses, or products built using this repository, to the fullest extent permitted by law.
 
 *If you plan to use this corpus in a public-facing product, for model training, or at scale, seek independent legal counsel.*
 
