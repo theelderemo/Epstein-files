@@ -1,6 +1,8 @@
 
 <img width="1280" height="640" alt="CONTENT WARNING GRAPHIC   SENSITIVE MATERIAL (3)" src="https://github.com/user-attachments/assets/c47e0517-3583-411e-883a-f45d2e2e042b" />
 
+**🔍 [Search the documents online (Gradio)](https://332dd37bdf390d82bf.gradio.live/)** - Hosted on Google Colab. If the site is down, please [create an issue](https://github.com/theelderemo/Epstein-files/issues/new) to let me know.
+
 # U.S. House Oversight Epstein Estate Documents
 
 ## Overview
