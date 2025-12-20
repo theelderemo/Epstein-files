@@ -23,6 +23,8 @@ tags:
 
 **[Search the documents online](https://huggingface.co/spaces/theelderemo/epstein-files/)** - Hosted on Hugging Face. If the site is down, please [create an issue](https://github.com/theelderemo/Epstein-files/issues/new) to let me know.
 
+[The dataset itself](https://huggingface.co/datasets/theelderemo/epstein-files-nov-2025)
+
 [**NEW DATASET WITH LATEST RELEASES AND COMBINED FILES**](https://github.com/theelderemo/FULL_EPSTEIN_INDEX)
 
 # U.S. House Oversight Epstein Estate Documents
