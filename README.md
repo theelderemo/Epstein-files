@@ -1,7 +1,29 @@
+---
+title: Epstein Files
+emoji: ⚡
+colorFrom: green
+colorTo: red
+sdk: gradio
+sdk_version: 6.0.2
+app_file: app.py
+pinned: true
+license: mit
+short_description: Epstein Files Dataset, originaly posted on r/LocalLLaMA
+language:
+- en
+tags:
+- epstein
+- epsteinfiles
+- epstein-files
+- dataset
+- journalism
+---
 
 <img width="1280" height="640" alt="CONTENT WARNING GRAPHIC   SENSITIVE MATERIAL (3)" src="https://github.com/user-attachments/assets/c47e0517-3583-411e-883a-f45d2e2e042b" />
 
-**🔍 [Search the documents online](https://huggingface.co/spaces/theelderemo/epstein-files/)** - Hosted on Hugging Face. If the site is down, please [create an issue](https://github.com/theelderemo/Epstein-files/issues/new) to let me know.
+**[Search the documents online](https://huggingface.co/spaces/theelderemo/epstein-files/)** - Hosted on Hugging Face. If the site is down, please [create an issue](https://github.com/theelderemo/Epstein-files/issues/new) to let me know.
+
+[**NEW DATASET WITH LATEST RELEASES AND COMBINED FILES**](https://github.com/theelderemo/FULL_EPSTEIN_INDEX)
 
 # U.S. House Oversight Epstein Estate Documents
 
